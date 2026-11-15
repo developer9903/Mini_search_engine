@@ -1,0 +1,1 @@
+A trie is a tree data structure used for prefix searching and word autocomplete.
