@@ -1,0 +1,1 @@
+A search engine helps users find information quickly. A mini search engine indexes text documents and returns relevant results.
