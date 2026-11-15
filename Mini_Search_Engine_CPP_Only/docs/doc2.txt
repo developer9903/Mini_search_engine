@@ -1,1 +1,0 @@
-Hash tables and linked lists help build an inverted index for document searching.
